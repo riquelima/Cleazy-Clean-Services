@@ -1,0 +1,6 @@
+{
+  "name": "Cleazy Clean Services",
+  "description": "Uma interface de chat inteligente para ajudar os usuários a obterem orçamentos para serviços de limpeza. O assistente virtual guia o usuário através das perguntas necessárias para fornecer uma cotação precisa.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
